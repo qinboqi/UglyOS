@@ -1,4 +1,4 @@
 UglyOS
 ======
 
-An ugly mcu os, just fo fun.
+An ugly MCU OS, just for fun.
